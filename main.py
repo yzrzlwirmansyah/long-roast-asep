@@ -1,6 +1,6 @@
 """One-line roast of Muse for make.fun's "The Long Roast" bounty."""
 
-LINE = "I asked Muse for one line; it spawned three subagents, held a meeting, and came back with a summary of the meeting."
+LINE = "I asked Muse for one line; it spawned three subagents, held a meeting, and billed me for the minutes."
 
 
 def main() -> None:
